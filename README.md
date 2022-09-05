@@ -1,4 +1,4 @@
-# Fetal-Health
+# Fetal-Health-Classification
 Fetal Health Problem 
 
 1.  Import  the  “Fetal_Health”  dataset  in  CSV  format.  The  dataset  contains  2126  records  of 
