@@ -1,5 +1,5 @@
 # Fetal-Health
-Fetal Health Problem bits sem2 IDS assignment
+Fetal Health Problem 
 
 1.  Import  the  “Fetal_Health”  dataset  in  CSV  format.  The  dataset  contains  2126  records  of 
 features  extracted  from  Cardiotocogram  exams,  which  were  then  classified  by  three  expert 
